@@ -1,7 +1,7 @@
 {
-  "name": "uikit-ecommerce-template",
+  "name": "yacoub-ecommerce",
   "version": "1.0.0",
-  "description": "E-commerce template built with UIkIt",
+  "description": "Online Store",
   "main": "index.js",
   "scripts": {
     "start": "gulp",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chekromul/uikit-ecommerce-template.git"
+    "url": "https://github.com/MuhammadYacoub/Store.git"
   },
-  "author": "Roman Chekurov",
+  "author": "Muhammad Yacoub",
   "license": "MIT",
-  "homepage": "https://github.com/chekromul/uikit-ecommerce-template",
+  "homepage": "https://github.com/MuhammadYacoub/Store.git",
   "devDependencies": {
     "autoprefixer": "^9.1.0",
     "browser-sync": "^2.24.6",
