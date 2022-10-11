@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1511" height="532" viewBox="0 0 1511 532">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-size: 56.605px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #800101;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: "Myriad Pro";
+      }
+
+      .cls-2 {
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #383737;
+      }
+
+      .cls-4 {
+        font-family: "Adobe Arabic";
+      }
+
+      .cls-5 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <text id="MUHAMMAD_" data-name="MUHAMMAD " class="cls-1" transform="translate(0.46 181.457) scale(3.349)"><tspan class="cls-2">M</tspan>UHAMMAD</text>
+  <text id="YACOUB" class="cls-3" transform="translate(0.652 481.024) scale(5.082)">YACOUB</text>
+  <text id="م" class="cls-4" transform="translate(1244.747 185.384) scale(10.937)">م</text>
+  <text id="ي" class="cls-4" transform="translate(1201.127 350.167) scale(10.937)">ي</text>
+  <path class="cls-5" d="M0.46,226.8H1123.3v11.132H0.46V226.8Z"/>
+</svg>
